@@ -1,7 +1,7 @@
 
 # 📚 AlgoVault
 
-Welcome to the **Algorithm Archive**, a well-organized collection of classic and important algorithms implemented in C++ and categorized by their underlying design techniques.
+Welcome to the **Algorithm Vault**, a well-organized collection of classic and important algorithms implemented in C++ and categorized by their underlying design techniques.
 
 ---
 
@@ -15,11 +15,11 @@ The repository is structured into folders based on **algorithm design techniques
 
 ---
 
-## 📂 Folder Breakdown
+## 📂 Programming Techniques
 
 | Category              | Description                                                         |
 |-----------------------|---------------------------------------------------------------------|
-| `Greedy`              | Algorithms that make locally optimal choices (e.g. Prim's, Dijkstra)|
+| `GreedyTechnique`              | Algorithms that make locally optimal choices (e.g. Prim's, Dijkstra)|
 | `DynamicProgramming`  | Problems solved by breaking them into overlapping subproblems       |
 | `Backtracking`        | Exhaustive search with recursion and pruning                       |
 | `BranchAndBound`      | Optimized exhaustive search using bounds to eliminate subtrees      |
@@ -31,7 +31,7 @@ The repository is structured into folders based on **algorithm design techniques
 ## ✅ Completed Algorithms
 
 <details>
-  <summary><strong>Greedy</strong></summary>
+  <summary><strong>Greedy Technique</strong></summary>
 
 - Prim's Algorithm
 - Dijkstra's Algorithm
