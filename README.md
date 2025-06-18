@@ -88,7 +88,7 @@ The repository is structured into folders based on **algorithm design techniques
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/algorithm-archive.git
+   git clone https://github.com/your-username/algo-vault.git
    cd algo-vault
    ```
 2. Navigate to any folder and compile the C++ code:
