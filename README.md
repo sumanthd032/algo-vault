@@ -82,6 +82,13 @@ The repository is structured into folders based on **algorithm design techniques
 
 </details>
 
+<details>
+  <summary><strong>Space And Time TraddeOff</strong></summary>
+
+- Boyre Moore Algorithm
+
+</details>
+
 ---
 
 ## 🔧 How to Run
