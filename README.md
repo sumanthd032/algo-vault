@@ -10,7 +10,7 @@ Welcome to the **Algorithm Archive**, a well-organized collection of classic and
 The repository is structured into folders based on **algorithm design techniques**. Each folder contains:
 
 - ✅ C++ implementation of each algorithm
-- 📄 Descriptive `README.md` files
+- 📄 Descriptive pdf files
 - 🧠 Explanation of logic, use cases, time and space complexity
 
 ---
@@ -89,7 +89,7 @@ The repository is structured into folders based on **algorithm design techniques
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/algorithm-archive.git
-   cd algorithm-archive
+   cd algo-vault
    ```
 2. Navigate to any folder and compile the C++ code:
    ```bash
